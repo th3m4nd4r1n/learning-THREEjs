@@ -1,0 +1,18 @@
+{
+  "name": "learning-threejs",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "mehar",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vite": "^5.3.3"
+  },
+  "dependencies": {
+    "three": "^0.166.1"
+  }
+}
