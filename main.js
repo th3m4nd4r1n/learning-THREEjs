@@ -21,7 +21,7 @@ const mesh = new THREE.Mesh(geometry, material);
 scene.add(mesh);
 
 //light
-const light = new THREE.HemisphereLight(0xff000, 0xffffff, 1);
+const light = new THREE.HemisphereLight(0xff0000, 0xff000, 1);
 scene.add(light);
 
 // Camera
